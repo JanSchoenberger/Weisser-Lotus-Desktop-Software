@@ -1,0 +1,22 @@
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Weißer Lotus Desktop Software.exe
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Weißer Lotus Desktop Software.deps.json
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Weißer Lotus Desktop Software.runtimeconfig.json
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Weißer Lotus Desktop Software.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Weißer Lotus Desktop Software.pdb
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\App.g.cs
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software_MarkupCompile.cache
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software_MarkupCompile.lref
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.g.resources
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.AssemblyInfoInputs.cache
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.AssemblyInfo.cs
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.csproj.CoreCompileInputs.cache
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.sourcelink.json
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\refint\Weißer Lotus Desktop Software.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.pdb
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.genruntimeconfig.cache
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\ref\Weißer Lotus Desktop Software.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\App.baml

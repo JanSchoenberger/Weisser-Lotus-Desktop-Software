@@ -1,0 +1,38 @@
+﻿<Window x:Class="Weißer_Lotus_Desktop_Software.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Weißer_Lotus_Desktop_Software"
+        mc:Ignorable="d"
+        Title="Weißer Lotus" Height="450" Width="800"
+        Icon="Images/Weißer_Lotus_Logo.ico"
+        Background="Black" Foreground="White"
+        WindowStyle="None" AllowsTransparency="True">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border Background="Black" MouseLeftButtonDown="Border_MouseLeftButtonDown">
+            <DockPanel LastChildFill="False">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="Images/Weißer_Lotus_Logo.ico" Width="45" Height="34" RenderTransformOrigin="0.472,1.115"/>
+                <TextBlock Text="Weißer Lotus" Foreground="White" Padding="7" Width="108"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Right">
+                    <Button Content="_" Width="30" Click="MinimizeButton_Click" Background="Black" Foreground="White"/>
+                    <Button Content="□" Width="30" Click="MaximizeButton_Click" Background="Black" Foreground="White"/>
+                    <Button Content="X" Width="30" Click="CloseButton_Click" Background="Black" Foreground="White"/>
+                </StackPanel>
+            </DockPanel>
+        </Border>
+        <Grid Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <StackPanel>
+                <TextBlock Text="Willkommen bei dem weißen Lotus" Foreground="White" FontSize="24" TextAlignment="Center"/>
+                <TextBlock Text="Charakter über Profit" Foreground="White" FontSize="18" TextAlignment="Center"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+    
+</Window>
