@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Weißer Lotus Desktop Software")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f06fc1ab877beb896077617d8d14c43ef5ecae9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Weißer Lotus Desktop Software")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Weißer Lotus Desktop Software")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

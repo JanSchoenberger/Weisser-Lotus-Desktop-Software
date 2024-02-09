@@ -16,11 +16,11 @@
         </Grid.RowDefinitions>
         <Border Background="Black" MouseLeftButtonDown="Border_MouseLeftButtonDown">
             <DockPanel LastChildFill="False">
-            <StackPanel Orientation="Horizontal">
-                <Image Source="Images/Weißer_Lotus_Logo.ico" Width="45" Height="34" RenderTransformOrigin="0.472,1.115"/>
-                <TextBlock Text="Weißer Lotus" Foreground="White" Padding="7" Width="108"/>
-            </StackPanel>
-            <StackPanel Orientation="Horizontal" DockPanel.Dock="Right">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images/Weißer_Lotus_Logo.ico" Width="45" Height="34" RenderTransformOrigin="0.472,1.115"/>
+                    <TextBlock Text="Weißer Lotus" Foreground="White" Padding="7" Width="108"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" DockPanel.Dock="Right">
                     <Button Content="_" Width="30" Click="MinimizeButton_Click" Background="Black" Foreground="White"/>
                     <Button Content="□" Width="30" Click="MaximizeButton_Click" Background="Black" Foreground="White"/>
                     <Button Content="X" Width="30" Click="CloseButton_Click" Background="Black" Foreground="White"/>
@@ -31,8 +31,13 @@
             <StackPanel>
                 <TextBlock Text="Willkommen bei dem weißen Lotus" Foreground="White" FontSize="24" TextAlignment="Center"/>
                 <TextBlock Text="Charakter über Profit" Foreground="White" FontSize="18" TextAlignment="Center"/>
+                <TextBox Text="{Binding Password}" TextChanged="TextBox_TextChanged"/>
+                <TextBox Text="{Binding Email}" />
+                <Button Command="{Binding RegisterCommand}" Content="Register"/>
             </StackPanel>
+
+
         </Grid>
     </Grid>
-    
+
 </Window>
