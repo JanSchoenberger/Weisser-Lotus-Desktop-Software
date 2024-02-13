@@ -45,6 +45,19 @@ namespace Weißer_Lotus_Desktop_Software
             this.Close();
         }
 
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            // Ihr Code hier
+        }
+        private void OpenStockFormButton_Click(object sender, RoutedEventArgs e)
+        {
+            StockForm stockForm = new StockForm();
+            stockForm.Show();
+
+            // Optional: Schließen Sie das aktuelle Fenster
+            this.Close();
+        }
+
 
     }
 

@@ -20,3 +20,5 @@ C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer
 C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.genruntimeconfig.cache
 C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\ref\Weißer Lotus Desktop Software.dll
 C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\App.baml
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\StockForm.g.cs
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\StockForm.baml
