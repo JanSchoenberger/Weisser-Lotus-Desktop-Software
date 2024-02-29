@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.Data.SqlClient;
 
 namespace Weißer_Lotus_Desktop_Software
 {
@@ -48,14 +49,31 @@ namespace Weißer_Lotus_Desktop_Software
             this.Close();
         }
 
-        private void SubmitButton_Click(object sender, RoutedEventArgs e)
+        public async Task InsertStockAsync(string stockName, string tickerSymbol, decimal targetPrice)
+        {
+            using (SqlConnection connection = await MainWindow.AzureSqlConnection.GetConnectionAsync())
+            {
+                using (SqlCommand command = new SqlCommand("INSERT INTO stocks (name, ticker_symbol, target_price) VALUES (@stockName, @tickerSymbol, @targetPrice)", connection))
+                {
+                    command.Parameters.AddWithValue("@stockName", stockName);
+                    command.Parameters.AddWithValue("@tickerSymbol", tickerSymbol);
+                    command.Parameters.AddWithValue("@targetPrice", targetPrice);
+
+                    await command.ExecuteNonQueryAsync();
+                }
+            }
+        }
+
+        private async void SubmitButton_Click(object sender, RoutedEventArgs e)
         {
             string stockName = stockNameTextBox.Text;
-            decimal purchasePrice = decimal.Parse(purchasePriceTextBox.Text);
-            decimal sellPrice = decimal.Parse(sellPriceTextBox.Text);
+            string tickerSymbol = tickerSymbolTextBox.Text;
+            decimal targetPrice = decimal.Parse(targetPriceTextBox.Text);
 
-            // Hier können Sie den Code hinzufügen, um die Daten zu verarbeiten
+            await InsertStockAsync(stockName, tickerSymbol, targetPrice);
         }
+
+
 
 
     }

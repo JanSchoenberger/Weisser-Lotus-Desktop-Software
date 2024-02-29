@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Weißer_Lotus_Desktop_Software"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
         mc:Ignorable="d"
         Title="Weißer Lotus" Height="450" Width="800"
         Icon="Images/Weißer_Lotus_Logo.ico"
@@ -41,14 +42,10 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
 
-            <Label Grid.Row="0" Grid.Column="0" Content="Stock Name"/>
-            <TextBox Grid.Row="0" Grid.Column="1" x:Name="stockNameTextBox"/>
+            <xctk:WatermarkTextBox Grid.Row="0" Grid.Column="1" x:Name="stockNameTextBox" Watermark="Enter stock name"/>
+            <xctk:WatermarkTextBox Grid.Row="1" Grid.Column="1" x:Name="tickerSymbolTextBox" Watermark="Enter the ticker symbol"/>
+            <xctk:WatermarkTextBox Grid.Row="2" Grid.Column="1" x:Name="targetPriceTextBox" Watermark="Enter the target price"/>
 
-            <Label Grid.Row="1" Grid.Column="0" Content="Purchase Price"/>
-            <TextBox Grid.Row="1" Grid.Column="1" x:Name="purchasePriceTextBox"/>
-
-            <Label Grid.Row="2" Grid.Column="0" Content="Sell Price"/>
-            <TextBox Grid.Row="2" Grid.Column="1" x:Name="sellPriceTextBox"/>
 
             <Button Grid.Row="3" Grid.Column="1" Content="Submit" Click="SubmitButton_Click"/>
         </Grid>

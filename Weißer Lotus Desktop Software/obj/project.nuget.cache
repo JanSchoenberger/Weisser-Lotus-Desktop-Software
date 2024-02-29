@@ -1,8 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "PYayO4dwyaKz1Jr4D3WK98M+g0J1QTb91xAh5wyV6FziBIRmqCz6KL8MvywsSoUUJZwmE5aNI5wo82XRwe1H7g==",
+  "dgSpecHash": "77N8S5DD6XNX1YpbyYDeBbXmYz4CRwiy4BNf4dGvcm3uw5jQeVGLV0mEYRMzCM3mL3RiBzfb7j/NZWaZ2rfMvg==",
   "success": true,
   "projectFilePath": "C:\\Dokumente\\Programmierung\\Weißer Lotus\\Weißer Lotus Desktop Software\\Weißer Lotus Desktop Software\\Weißer Lotus Desktop Software.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\extended.wpf.toolkit\\4.6.0\\extended.wpf.toolkit.4.6.0.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\microsoft.identity.client\\4.59.0\\microsoft.identity.client.4.59.0.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.59.0\\microsoft.identity.client.extensions.msal.4.59.0.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\microsoft.identity.client.nativeinterop\\0.13.14\\microsoft.identity.client.nativeinterop.0.13.14.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\microsoft.web.webview2\\1.0.864.35\\microsoft.web.webview2.1.0.864.35.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\JSCHOENBERGE\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
