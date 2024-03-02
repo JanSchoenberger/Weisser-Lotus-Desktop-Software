@@ -19,7 +19,9 @@
                 <StackPanel Orientation="Horizontal">
                     <Image Source="Images/Weißer_Lotus_Logo.ico" Width="45" Height="34" RenderTransformOrigin="0.472,1.115"/>
                     <TextBlock Text="Weißer Lotus" Foreground="White" Padding="7" Width="108"/>
+                    <Button Content="Startseite" Click="OpenHomePageButton_Click" Background="Black" Foreground="White" BorderBrush="White" BorderThickness="1"/>
                     <Button Content="Stock Price List" Click="OpenStockFormButton_Click" Background="Black" Foreground="White" BorderBrush="White" BorderThickness="1"/>
+                    <Button Content="Amortisationsdauer" Click="OpenAmortisationWindowButton_Click" Background="Black" Foreground="White" BorderBrush="White" BorderThickness="1"/>
                 </StackPanel>
                 <StackPanel Orientation="Horizontal" DockPanel.Dock="Right">
                     <Button Content="_" Width="30" Click="MinimizeButton_Click" Background="Black" Foreground="White"/>
@@ -30,6 +32,7 @@
         </Border>
         <Grid Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
             <StackPanel>
+                <Image Source="Images/Weißer_Lotus_Logo.ico" Width="100" Height="100" />
                 <TextBlock Text="Willkommen bei dem weißen Lotus" Foreground="White" FontSize="24" TextAlignment="Center"/>
                 <TextBlock Text="Charakter über Profit" Foreground="White" FontSize="18" TextAlignment="Center"/>
                 <TextBox Text="{Binding Password}" TextChanged="TextBox_TextChanged"/>

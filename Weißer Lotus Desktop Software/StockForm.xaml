@@ -21,6 +21,9 @@
                 <StackPanel Orientation="Horizontal">
                     <Image Source="Images/Weißer_Lotus_Logo.ico" Width="45" Height="34" RenderTransformOrigin="0.472,1.115"/>
                     <TextBlock Text="Weißer Lotus" Foreground="White" Padding="7" Width="108"/>
+                    <Button Content="Startseite" Click="OpenHomePageButton_Click" Background="Black" Foreground="White" BorderBrush="White" BorderThickness="1"/>
+                    <Button Content="Stock Price List" Click="OpenStockFormButton_Click" Background="Black" Foreground="White" BorderBrush="White" BorderThickness="1"/>
+                    <Button Content="Amortisationsdauer" Click="OpenAmortisationWindowButton_Click" Background="Black" Foreground="White" BorderBrush="White" BorderThickness="1"/>
                 </StackPanel>
                 <StackPanel Orientation="Horizontal" DockPanel.Dock="Right">
                     <Button Content="_" Width="30" Click="MinimizeButton_Click" Background="Black" Foreground="White"/>
@@ -36,18 +39,21 @@
                 <RowDefinition Height="Auto"/>
                 <RowDefinition Height="Auto"/>
                 <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
 
-            <xctk:WatermarkTextBox Grid.Row="0" Grid.Column="1" x:Name="stockNameTextBox" Watermark="Enter stock name"/>
-            <xctk:WatermarkTextBox Grid.Row="1" Grid.Column="1" x:Name="tickerSymbolTextBox" Watermark="Enter the ticker symbol"/>
-            <xctk:WatermarkTextBox Grid.Row="2" Grid.Column="1" x:Name="targetPriceTextBox" Watermark="Enter the target price"/>
+            <Image Grid.Row="0" Grid.ColumnSpan="2" Source="Images/Weißer_Lotus_Logo.ico" Width="100" Height="100" HorizontalAlignment="Center"/>
 
+            <xctk:WatermarkTextBox Grid.Row="1" Grid.Column="1" x:Name="stockNameTextBox" Watermark="Enter stock name"/>
+            <xctk:WatermarkTextBox Grid.Row="2" Grid.Column="1" x:Name="tickerSymbolTextBox" Watermark="Enter the ticker symbol"/>
+            <xctk:WatermarkTextBox Grid.Row="3" Grid.Column="1" x:Name="targetPriceTextBox" Watermark="Enter the target price"/>
 
-            <Button Grid.Row="3" Grid.Column="1" Content="Submit" Click="SubmitButton_Click"/>
+            <Button Grid.Row="4" Grid.Column="1" Content="Submit" Click="SubmitButton_Click"/>
         </Grid>
+  
     </Grid>
 </Window>

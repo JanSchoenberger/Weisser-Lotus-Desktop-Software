@@ -1,4 +1,6 @@
-﻿using System.Data.SqlClient;
+﻿using Microsoft.Extensions.Configuration;
+using System.Configuration;
+using System.Data.SqlClient;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -25,11 +27,19 @@ namespace Weißer_Lotus_Desktop_Software
         private readonly string _tenantId = "ea085534-0401-40a8-9f06-bec169fd72d2";
         public static AzureSqlConnection AzureSqlConnection { get; private set; }
 
+        private readonly IConfiguration _configuration;
 
         public MainWindow()
         {
             InitializeComponent();
+            Loaded += MainWindow_Loaded;
+        }
 
+
+        public MainWindow(IConfiguration configuration)
+        {
+            _configuration = configuration;
+            InitializeComponent();
             Loaded += MainWindow_Loaded;
         }
 
@@ -93,12 +103,28 @@ namespace Weißer_Lotus_Desktop_Software
         {
             // Ihr Code hier
         }
+       
+
+        private void OpenHomePageButton_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow startseite = new MainWindow(((App)Application.Current).Configuration);
+            startseite.Show();
+            this.Close();
+        }
+
+
         private void OpenStockFormButton_Click(object sender, RoutedEventArgs e)
         {
-            StockForm stockForm = new StockForm();
+            StockForm stockForm = new StockForm(((App)Application.Current).Configuration);
             stockForm.Show();
+            this.Close();
 
-            // Optional: Schließen Sie das aktuelle Fenster
+        }
+
+        private void OpenAmortisationWindowButton_Click(object sender, RoutedEventArgs e)
+        {
+            Amortisationsdauer amortisationsdauer = new Amortisationsdauer(((App)Application.Current).Configuration);
+            amortisationsdauer.Show();
             this.Close();
         }
 

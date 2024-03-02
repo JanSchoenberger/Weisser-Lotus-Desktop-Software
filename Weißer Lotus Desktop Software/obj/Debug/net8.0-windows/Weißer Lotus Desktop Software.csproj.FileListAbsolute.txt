@@ -61,3 +61,13 @@ C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer
 C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
 C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
 C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Amortisationsdauer.g.cs
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Amortisationsdauer.baml
