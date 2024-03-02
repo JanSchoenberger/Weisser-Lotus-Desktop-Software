@@ -43,6 +43,7 @@
 
 
         </Grid>
+        <Frame x:Name="MainFrame" Grid.Row="1"/>
     </Grid>
 
 </Window>

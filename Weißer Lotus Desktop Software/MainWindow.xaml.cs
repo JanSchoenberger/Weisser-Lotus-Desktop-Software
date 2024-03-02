@@ -12,6 +12,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Weißer_Lotus_Desktop_Software.Models;
+using Weißer_Lotus_Desktop_Software.Pages;
+
 
 namespace Weißer_Lotus_Desktop_Software
 {
@@ -115,9 +117,11 @@ namespace Weißer_Lotus_Desktop_Software
 
         private void OpenStockFormButton_Click(object sender, RoutedEventArgs e)
         {
-            StockForm stockForm = new StockForm(((App)Application.Current).Configuration);
-            stockForm.Show();
-            this.Close();
+            //StockForm stockForm = new StockForm(((App)Application.Current).Configuration);
+            //stockForm.Show();
+            //this.Close();
+            MainFrame.Navigate(new Aktienpreise()); ;
+
 
         }
 

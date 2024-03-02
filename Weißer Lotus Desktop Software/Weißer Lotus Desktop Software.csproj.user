@@ -7,7 +7,13 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Aktienpreise.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Amortisationsdauer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Aktienpreise.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="StockForm.xaml.cs">
@@ -15,10 +21,16 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Aktienpreise.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Amortisationsdauer.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Aktienpreise.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="StockForm.xaml">
