@@ -7,3 +7,73 @@ C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer
 C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\App.g.cs
 C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software_MarkupCompile.cache
 C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software_MarkupCompile.lref
+<<<<<<< Updated upstream
+=======
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.g.resources
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.AssemblyInfoInputs.cache
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.AssemblyInfo.cs
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.csproj.CoreCompileInputs.cache
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.sourcelink.json
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\refint\Weißer Lotus Desktop Software.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.pdb
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.genruntimeconfig.cache
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\ref\Weißer Lotus Desktop Software.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\App.baml
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\StockForm.g.cs
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\StockForm.baml
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.csproj.AssemblyReference.cache
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Weißer Lotus Desktop Software.dll.config
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.csproj.CopyComplete
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Amortisationsdauer.g.cs
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Amortisationsdauer.baml
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software_Content.g.cs
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer_Lotus_Desktop_Software.Properties.Resources.resources
+C:\Dokumente\Programmierung\Weißer Lotus\Weißer Lotus Desktop Software\Weißer Lotus Desktop Software\obj\Debug\net8.0-windows\Weißer Lotus Desktop Software.csproj.GenerateResource.cache
+>>>>>>> Stashed changes

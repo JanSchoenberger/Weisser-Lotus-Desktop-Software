@@ -94,7 +94,7 @@ namespace Weißer_Lotus_Desktop_Software {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Weißer Lotus Desktop Software;component/aktienpreise.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Weißer Lotus Desktop Software;V1.0.0.0;component/aktienpreise.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Aktienpreise.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

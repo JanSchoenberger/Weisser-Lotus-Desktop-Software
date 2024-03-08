@@ -19,7 +19,7 @@ namespace Weißer_Lotus_Desktop_Software
     /// <summary>
     /// Interaktionslogik für Amortisationsdauer.xaml
     /// </summary>
-    public partial class Amortisationsdauer : Window
+    public partial class Amortisationsdauer : Page
     {
 
         public Amortisationsdauer()
@@ -55,58 +55,12 @@ namespace Weißer_Lotus_Desktop_Software
             ResultLabel.Content = $"Es dauert {year} Jahre, bis die Summe der Dividenden den Aktienpreis deckt.";
         }
 
-        private void Border_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
-        {
-            if (e.ChangedButton == MouseButton.Left)
-                this.DragMove();
-        }
-
-        private void MinimizeButton_Click(object sender, RoutedEventArgs e)
-        {
-            this.WindowState = WindowState.Minimized;
-        }
-
-        private void MaximizeButton_Click(object sender, RoutedEventArgs e)
-        {
-            if (this.WindowState == WindowState.Maximized)
-                this.WindowState = WindowState.Normal;
-            else
-                this.WindowState = WindowState.Maximized;
-        }
-
-        private void CloseButton_Click(object sender, RoutedEventArgs e)
-        {
-            this.Close();
-        }
-
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
             // Ihr Code hier
         }
 
-        private void OpenHomePageButton_Click(object sender, RoutedEventArgs e)
-        {
-            MainWindow startseite = new MainWindow(((App)Application.Current).Configuration);
-            startseite.Show();
-            this.Close();
-        }
-
-
-        private void OpenStockFormButton_Click(object sender, RoutedEventArgs e)
-        {
-            StockForm stockForm = new StockForm(((App)Application.Current).Configuration);
-            stockForm.Show();
-            this.Close();
-
-        }
-
-        private void OpenAmortisationWindowButton_Click(object sender, RoutedEventArgs e)
-        {
-            Amortisationsdauer amortisationsdauer = new Amortisationsdauer(((App)Application.Current).Configuration);
-            amortisationsdauer.Show();
-            this.Close();
-        }
-
+      
 
 
     }

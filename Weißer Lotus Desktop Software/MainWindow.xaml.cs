@@ -127,9 +127,13 @@ namespace Weißer_Lotus_Desktop_Software
 
         private void OpenAmortisationWindowButton_Click(object sender, RoutedEventArgs e)
         {
+
+            // Erstellen Sie eine Instanz Ihrer Page
             Amortisationsdauer amortisationsdauer = new Amortisationsdauer(((App)Application.Current).Configuration);
-            amortisationsdauer.Show();
-            this.Close();
+
+            // Navigieren Sie zu dieser Page in Ihrem Frame
+            // Ersetzen Sie "YourFrame" durch den Namen Ihres Frame
+            AmortisationsFenster.Navigate(amortisationsdauer);
         }
 
 

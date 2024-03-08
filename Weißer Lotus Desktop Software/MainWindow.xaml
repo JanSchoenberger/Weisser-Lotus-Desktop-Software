@@ -43,7 +43,11 @@
 
 
         </Grid>
+<<<<<<< Updated upstream
         <Frame x:Name="MainFrame" Grid.Row="1"/>
+=======
+        <Frame x:Name="AmortisationsFenster" />
+>>>>>>> Stashed changes
     </Grid>
 
 </Window>

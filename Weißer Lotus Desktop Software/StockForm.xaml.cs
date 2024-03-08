@@ -134,8 +134,7 @@ namespace Weißer_Lotus_Desktop_Software
         private void OpenAmortisationWindowButton_Click(object sender, RoutedEventArgs e)
         {
             Amortisationsdauer amortisationsdauer = new Amortisationsdauer(((App)Application.Current).Configuration);
-            amortisationsdauer.Show();
-            this.Close();
+            AmortisationsFenster.Navigate(amortisationsdauer);
         }
 
 
