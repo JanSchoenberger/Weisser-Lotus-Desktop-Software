@@ -16,6 +16,9 @@
     <Compile Update="Pages\Aktienpreise.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Pages\APITest.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="StockForm.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -31,6 +34,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Pages\Aktienpreise.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\APITest.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="StockForm.xaml">
